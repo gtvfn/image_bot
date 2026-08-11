@@ -1,0 +1,3 @@
+aiogram>=3.4
+replicate>=0.25
+aiohttp>=3.9
